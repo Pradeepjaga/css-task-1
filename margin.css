@@ -1,0 +1,38 @@
+.f{
+background-color: wheat;
+margin:0px 200px;
+padding: 25px;
+}
+.heading{
+    background-color: burlywood;
+    margin-left: 20px;
+    margin-right: 20px;
+    color:green;
+   /* width: 80%; */
+padding: 20px 30px;
+
+}
+.p1{
+    background-color: burlywood;
+    margin:10px 20px;
+    padding: 8px;
+    float:left;
+}
+body{
+    background-color: red;
+}
+.footer{
+    background-color: burlywood;
+    margin-top: 20px;
+    padding: 10px 8px;
+    width: 95%;
+    margin-left: 20px;
+    clear: both;
+    display: inline-block;
+}
+#graph{
+    width:41%;
+}
+#para{
+    width:48%;
+}
